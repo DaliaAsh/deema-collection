@@ -1,0 +1,17 @@
+.links{
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
+    margin-left:25em;
+}
+.facebook-icon{
+margin-right: 3em;
+color: royalblue;
+}
+.instagram-icon{
+color: palevioletred;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+}

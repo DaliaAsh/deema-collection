@@ -1,0 +1,31 @@
+.wrap{
+    display: flex;
+    flex-direction: column;
+}
+.navigation-bar{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    background-color: #FF4571;
+}
+.list{
+    list-style: none;
+   display: flex;
+   flex-direction: row;
+   margin-left: 14em;
+}
+.list-item{
+    margin: 1em;
+    font-weight: 900;
+   
+}
+.list-item:hover{
+    cursor: pointer;
+}
+.logo-img{
+    width: 5em;
+    height: 100%;
+    position: absolute;
+    left: 7em;
+}

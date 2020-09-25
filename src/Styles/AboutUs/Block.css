@@ -1,0 +1,15 @@
+.block{
+    width: 10em;
+    height: 10em;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.block:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
